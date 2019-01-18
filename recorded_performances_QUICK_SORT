@@ -1,0 +1,24 @@
+Algorithme utilisé                                    : QUICK_SORT
+Nombre moyen de comparaisons effectuées               : 71215
+Nombre moyen d'échanges effectués                     : 38667
+Temps moyen d'exécution de l'algorithme               : 2729.710000
+Ecart-type du temps moyen d'exécution de l'algorithme : 182.412516
+
+Algorithme utilisé                                    : QUICK_SORT
+Nombre moyen de comparaisons effectuées               : 70536
+Nombre moyen d'échanges effectués                     : 38429
+Temps moyen d'exécution de l'algorithme               : 2716.930000
+Ecart-type du temps moyen d'exécution de l'algorithme : 160.598771
+
+Algorithme utilisé                                    : QUICK_SORT
+Nombre moyen de comparaisons effectuées               : 24622
+Nombre moyen d'échanges effectués                     : 13631
+Temps moyen d'exécution de l'algorithme               : 881.920000
+Ecart-type du temps moyen d'exécution de l'algorithme : 86.632059
+
+Algorithme utilisé                                    : QUICK_SORT
+Nombre moyen de comparaisons effectuées               : 24719
+Nombre moyen d'échanges effectués                     : 13502
+Temps moyen d'exécution de l'algorithme               : 873.870000
+Ecart-type du temps moyen d'exécution de l'algorithme : 85.803223
+

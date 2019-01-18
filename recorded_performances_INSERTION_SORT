@@ -1,0 +1,24 @@
+Algorithme utilisé                                    : INSERTION_SORT
+Nombre moyen de comparaisons effectuées               : 6256070
+Nombre moyen d'échanges effectués                     : 6251071
+Temps moyen d'exécution de l'algorithme               : 148653.030000
+Ecart-type du temps moyen d'exécution de l'algorithme : 1960.772269
+
+Algorithme utilisé                                    : INSERTION_SORT
+Nombre moyen de comparaisons effectuées               : 6248018
+Nombre moyen d'échanges effectués                     : 6243019
+Temps moyen d'exécution de l'algorithme               : 147904.480000
+Ecart-type du temps moyen d'exécution de l'algorithme : 1739.656055
+
+Algorithme utilisé                                    : INSERTION_SORT
+Nombre moyen de comparaisons effectuées               : 1002144
+Nombre moyen d'échanges effectués                     : 1000145
+Temps moyen d'exécution de l'algorithme               : 23645.750000
+Ecart-type du temps moyen d'exécution de l'algorithme : 624.868232
+
+Algorithme utilisé                                    : INSERTION_SORT
+Nombre moyen de comparaisons effectuées               : 1003478
+Nombre moyen d'échanges effectués                     : 1001479
+Temps moyen d'exécution de l'algorithme               : 23671.500000
+Ecart-type du temps moyen d'exécution de l'algorithme : 744.850126
+

@@ -1,0 +1,24 @@
+Algorithme utilisé                                    : BASIC_SORT
+Nombre moyen de comparaisons effectuées               : 12502500
+Nombre moyen d'échanges effectués                     : 6237774
+Temps moyen d'exécution de l'algorithme               : 623557.330000
+Ecart-type du temps moyen d'exécution de l'algorithme : 36962.891887
+
+Algorithme utilisé                                    : BASIC_SORT
+Nombre moyen de comparaisons effectuées               : 12502500
+Nombre moyen d'échanges effectués                     : 6236574
+Temps moyen d'exécution de l'algorithme               : 599018.970000
+Ecart-type du temps moyen d'exécution de l'algorithme : 5872.209220
+
+Algorithme utilisé                                    : BASIC_SORT
+Nombre moyen de comparaisons effectuées               : 2001000
+Nombre moyen d'échanges effectués                     : 995610
+Temps moyen d'exécution de l'algorithme               : 75338.280000
+Ecart-type du temps moyen d'exécution de l'algorithme : 1488.627341
+
+Algorithme utilisé                                    : BASIC_SORT
+Nombre moyen de comparaisons effectuées               : 2001000
+Nombre moyen d'échanges effectués                     : 998701
+Temps moyen d'exécution de l'algorithme               : 75524.910000
+Ecart-type du temps moyen d'exécution de l'algorithme : 1497.331540
+

@@ -1,0 +1,24 @@
+Algorithme utilisé                                    : BUBBLE_SORT
+Nombre moyen de comparaisons effectuées               : 12497500
+Nombre moyen d'échanges effectués                     : 6248760
+Temps moyen d'exécution de l'algorithme               : 789757.210000
+Ecart-type du temps moyen d'exécution de l'algorithme : 33476.784166
+
+Algorithme utilisé                                    : BUBBLE_SORT
+Nombre moyen de comparaisons effectuées               : 12497500
+Nombre moyen d'échanges effectués                     : 6248521
+Temps moyen d'exécution de l'algorithme               : 780036.260000
+Ecart-type du temps moyen d'exécution de l'algorithme : 8736.499605
+
+Algorithme utilisé                                    : BUBBLE_SORT
+Nombre moyen de comparaisons effectuées               : 1999000
+Nombre moyen d'échanges effectués                     : 998643
+Temps moyen d'exécution de l'algorithme               : 93299.980000
+Ecart-type du temps moyen d'exécution de l'algorithme : 1907.236944
+
+Algorithme utilisé                                    : BUBBLE_SORT
+Nombre moyen de comparaisons effectuées               : 1999000
+Nombre moyen d'échanges effectués                     : 1000479
+Temps moyen d'exécution de l'algorithme               : 91918.360000
+Ecart-type du temps moyen d'exécution de l'algorithme : 1548.593591
+
